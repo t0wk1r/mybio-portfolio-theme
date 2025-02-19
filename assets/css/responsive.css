@@ -1,0 +1,652 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+/*================================
+	themesBazar col css Start
+=================================*/
+.themesBazar-m1{
+	padding: 8px;
+}
+.themesBazar-m2 {
+	padding: 8px;
+}
+
+.themesBazar-m3{
+	padding: 8px;
+}
+
+.themesBazar-m4{
+	padding: 8px;
+}
+
+.themesBazar-m6{
+	padding: 8px;
+}
+
+
+/*================================
+	themesBazar col css End
+=================================*/
+
+
+/*=============Menu Logo start ============*/
+
+.stellarnav > ul > li > a {
+	padding: 8px 6px !important;
+	font-size: 14px !important;
+} 
+    
+.stellarnav.desktop li.has-sub a {
+    font-size: 14px !important;
+}
+
+.stellarnav ul ul {
+	margin-top: 0 !important;
+}
+
+.logo {
+	margin-top: 12px !important;
+}
+
+.logo img {
+	margin-right: 5px !important;
+}
+
+.logo-nane > a {
+	font-size: 18px !important;
+}
+
+/* About area */
+.about-area {
+	padding: 150px 0 70px !important;
+}
+
+.about-btn2 a {
+	margin-top: 15px !important;
+}
+
+.skill-image img {
+	max-width: 100% !important;
+}
+
+/* Educational css start  */
+.bio-title {
+	font-size: 18px !important;
+}
+
+.bio-deg {
+	font-size: 14px !important;
+}
+
+.secTitle {
+	font-size: 65px !important;
+	margin-top: -15px !important;
+}
+
+/* Recent work */
+
+.wrok-wrpp {
+	padding: 10px !important;
+}
+
+.wrok-image img {
+	height: 170px !important;
+}
+
+.gallery-wrpp {
+	padding: 10px !important;
+}
+.gallery-image img {
+	height: 170px !important;
+}
+
+.secTitle2 {
+	font-size: 65px !important;
+	margin-top: -10px !important;
+}
+
+/* Video Area */
+
+.video-wrpp {
+	padding: 6px !important;
+}
+
+.video-image img {
+	height: 180px !important;
+}
+
+
+
+/* Latest News area */
+
+.news-wrpp {
+	padding: 10px !important;
+}
+
+.news-image img {
+	height: 170px !important;
+}
+
+.news-title {
+	line-height: 20px !important;
+}
+
+.news-title > a {
+	font-size: 18px !important;
+}
+
+/* Testimonial css start */
+.testimonial-wrpp {
+	padding: 10px !important;
+}
+
+.testimonial-deg {
+	font-size: 14px !important;
+}
+
+.testimonial-title {
+	font-size: 18px !important;
+}
+.testimonial-image img {
+	width: 88px !important;
+	height: 88px !important;
+	margin-right: 10px !important;
+}
+
+.contact-wrpp {
+	padding: 5px !important;
+}
+
+
+/* single team */
+.single-teamContent {
+	margin: 0 0 !important;
+}
+
+.singel-teamImage img {
+	height: 270px !important;
+}
+
+
+.team-wrpp {
+	padding: 7px 20px 13px 7px !important;
+	margin-bottom: 0 !important;
+}
+
+.team-image img {
+	height: 150px !important;
+}
+
+.team-content {
+	margin-top: 17px !important;
+}
+
+.team-name a {
+	font-size: 18px !important;
+}
+
+.team-deg {
+	font-size: 16px !important;
+}
+
+
+
+}
+
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+
+/*================================
+	themesBazar col css Start
+=================================*/
+.themesBazar-m1{
+	max-width: 100%!important;
+}
+.themesBazar-m2 {
+	max-width: 50% !important;
+	padding: 8px !important;
+}
+
+.themesBazar-m3{
+	width: 33.33% !important;
+}
+
+.themesBazar-m4{
+	width: 25% !important;
+}
+
+.themesBazar-m6{
+	width: 16.66% !important;
+}
+
+
+/*================================
+	themesBazar col css End
+=================================*/
+
+/*=============Logo Menu & Scroll Start ==================*/
+.logo-nane > a {
+	font-size: 18px !important;
+	margin-top: 10px !important;
+}
+
+.logo img {
+	width: 45px !important;
+	height: 45px !important;
+	margin-right: 5px !important;
+}
+
+.logo {
+	margin-top: 0 !important;
+}
+.menu-section {
+	padding: 5px 0 !important;
+}
+
+   
+ /*============ Menu css start==============*/
+
+ .stellarnav .menu-toggle span.bars {
+	top: -10px !important;
+	right: 5px !important;
+	position: absolute;
+	z-index: 999;
+}
+
+.stellarnav.mobile {
+	text-align: right !important;
+	margin-top: -23px !important;
+	margin-left: -14px !important;
+	position: absolute;
+}
+    
+.stellarnav .full {
+	width: 0 !important;
+}
+  
+.stellarnav.dark .menu-toggle span.bars span {
+	background: #fff;
+}
+
+ .stellarnav.mobile li a {
+	color: #fff !important;
+}   
+
+.stellarnav.mobile.dark ul {
+	background: rgb(25, 24, 24) !important;
+	margin-top: -9px !important;
+}
+	
+.stellarnav.dark {
+	background: transparent !important;
+}
+    
+.stellarnav .menu-toggle span.bars span {
+	width: 27px !important;
+	height: 3px !important;
+	margin: 0 0 5px !important;
+}
+ 	
+.stellarnav ul ul {
+	left: 0 !important;
+	margin-top: 0 !important;
+}
+.stellarnav.mobile.dark ul ul {
+		margin-top: 10px !important;
+}
+
+.stellarnav.mobile > ul > li > a:hover {
+	color: #ffb400 !important;
+}
+   
+ /*============ Menu css End==============*/
+ .secTitle {
+	font-size: 40px !important;
+	margin-top: -13px !important;
+}
+
+.sec-title {
+	font-size: 40px !important;
+}
+
+
+.secTitle2 {
+	font-size: 40px !important;
+	margin-top: -7px !important;
+}
+
+
+.sec-title2 {
+	font-size: 40px !important;
+}
+
+.sec-content2 {
+	margin-bottom: 15px !important;
+}
+
+/***===============================
+	About Area css start
+==================================***/
+.about-area {
+	padding: 120px 0 80px !important;
+}
+
+.aboutSec-title {
+	font-size: 35px !important;
+	top: 8% !important;
+	line-height: 1;
+	left: 0 !important;
+	right: 0 !important;
+	text-align: center;
+}
+
+.about-image {
+	text-align: center !important;
+	margin-right: 0 !important;
+}
+
+.about-image img {
+	width: 250px !important;
+	height: 250px !important;
+}
+
+.about-btn a {
+	margin-top: 30px !important;
+}
+
+.about-btn2 a {
+	margin-top: 20px !important;
+}
+/***===============================
+	About Area css Start
+==================================***/
+
+.skill-image img {
+	max-width: 100% !important;
+}
+
+.notice-title {
+	font-size: 28px !important;
+	line-height: 1.2 !important;
+	margin: 16px 0 !important;
+}
+
+
+
+/***===============================
+	 Recent Work  css start
+==================================***/
+.wrok-wrpp {
+	padding: 5px !important;
+	border-radius: 0 0 5px 0 !important;
+	margin-bottom: 0 !important;
+}
+.work-title {
+	margin: 6px 3px 3px !important;
+	font-size: 16px !important;
+}
+
+.wrok-image img {
+	height: 120px !important;
+}
+
+
+/***===============================
+	 Recent Work css End
+==================================***/
+
+
+
+/***===============================
+	Gallery css start
+==================================***/
+.gallery-wrpp {
+	padding: 5px !important;
+	margin: 0 !important;
+}
+
+.gallery-title > a {
+	font-size: 13px !important;
+}
+
+.gallery-title {
+	padding: 4px !important;
+}
+
+
+.gallery-image img {
+	height: 120px !important;
+}
+
+
+/***===============================
+	Gallery css End
+==================================***/
+
+
+/***===============================
+	Video css Start
+==================================***/
+
+.video-wrpp {
+	padding: 5px !important;
+}
+
+.video-image img {
+	height: 120px !important;
+}
+
+.video-icon i {
+	width: 30px !important;
+	height: 30px !important;
+	line-height: 27px !important;
+	font-size: 20px !important;
+
+}
+
+.video-title {
+	padding: 5px !important;
+	line-height: 1 !important;
+}
+
+.video-title > a {
+	font-size: 13px !important;
+}
+
+
+/***===============================
+	Video css End
+==================================***/
+
+
+
+/***===============================
+	Latest news css End
+==================================***/
+
+
+.news-wrpp {
+	padding: 6px !important;
+	border-radius: 0 !important;
+}
+
+.news-image img {
+	height: 120px !important;
+}
+
+
+.author-content ul li a {
+	font-size: 12px !important;
+}
+
+.author-content ul li {
+	margin-right: 0 !important;
+	font-size: 12px !important;
+}
+
+.news-title {
+	line-height: 18px !important;
+}
+
+.news-title > a {
+	font-size: 14px !important;
+
+}
+
+.news-btn > a {
+	font-size: 12px !important;
+}
+
+/***===============================
+	Latest css End
+==================================***/
+
+.testimonial-image img {
+	margin-right: 10px !important;
+}
+
+.testimonial-wrpp {
+	margin-bottom: 20px !important;
+}
+
+
+
+.quick-wrpp {
+	margin-bottom: 20px !important;
+}
+
+
+/***===============================
+	Footer css Start
+==================================***/
+
+.footer-area {
+	margin: 0 !important;
+}
+
+.contact-wrpp {
+	margin-bottom: 25px !important;
+}
+
+.footer-social a {
+	margin-right: 5px !important;
+
+}
+
+
+/***===============================
+	Footer css Start
+==================================***/
+
+.all-pagetitel {
+	font-size: 40px !important;
+}
+
+.pricing-item ul > li {
+	padding-bottom: 10px !important;
+	font-size: 17px !important;
+}
+
+.pricing-item ul li strong {
+	display: inline-block !important;
+	width: 100% !important;
+}
+
+.price-title {
+	font-size: 25px !important;
+}
+
+.price-count {
+	font-size: 24px !important;
+}
+
+.pricing-item {
+	padding: 7px !important;
+}
+
+.pricing-item ul li i {
+	display: none !important;
+}
+
+/* team page start */
+.team-wrpp {
+	padding: 10px 25px 16px 10px !important;
+	margin-bottom: 0 !important;
+}
+
+.team-image img {
+	height: 135px !important;
+}
+
+.team-name a {
+	font-size: 18px !important;
+}
+
+.team-deg {
+	font-size: 16px !important;
+}
+
+/* team page End */
+
+/* team single page start */
+.single-teamContent {
+	padding: 0 0 !important;
+	margin: 0 0 !important;
+}
+
+.single-teamContent::before {
+	background: transparent !important;
+}
+
+
+.team-singleItem {
+	padding: 20px !important;
+}
+.singel-teamImage img {
+	width: 100% !important;
+	height: auto !important;
+}
+
+/* team single page End */
+
+
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+
+	.skill-image img {
+		max-width: 65% !important;
+	}
+
+	.wrok-image img {
+		height: 170px !important;
+	}
+
+	.gallery-image img {
+		height: 170px !important;
+	}
+	.video-image img {
+		height: 170px !important;
+	}
+
+	.news-image img {
+		height: 170px !important;
+	}
+
+
+	.team-image img {
+		height: 180px !important;
+	}
+
+
+
+
+}
